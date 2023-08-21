@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Bill" ALTER COLUMN "billId" DROP NOT NULL,
+ALTER COLUMN "change_hash" DROP NOT NULL,
+ALTER COLUMN "status" DROP NOT NULL;
