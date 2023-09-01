@@ -12,13 +12,12 @@ Open your web browser and navigate to http://localhost:3000 to view the app.
 Technologies Used
 LegAI is built using the following technologies:
 
-TypeScript
-React
-Next.js
-Tailwind CSS
-Prisma
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Prisma
 
-Contributing:
 If you'd like to contribute to LegAI, please follow these steps:
 
 Fork the repository to your own GitHub account.
