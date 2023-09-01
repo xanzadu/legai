@@ -17,7 +17,8 @@ React
 Next.js
 Tailwind CSS
 Prisma
-Contributing
+
+Contributing:
 If you'd like to contribute to LegAI, please follow these steps:
 
 Fork the repository to your own GitHub account.
